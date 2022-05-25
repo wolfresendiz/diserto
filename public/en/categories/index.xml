@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on diserto.com</title>
-        <link>/categories/</link>
+        <link>/en/categories/</link>
         <description>Recent content in Categories on diserto.com</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>es</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>es</language><atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
