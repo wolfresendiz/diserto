@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Diserto</title>
-        <link>/</link>
-        <description>Recent content on Diserto</description>
+        <title>Sobre-mis on Diserto</title>
+        <link>/sobre-mi/</link>
+        <description>Recent content in Sobre-mis on Diserto</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es</language>
-        <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/sobre-mi/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Sobre mi</title>
         <link>/sobre-mi/sobre-mi/</link>
         <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>

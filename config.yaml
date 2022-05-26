@@ -7,11 +7,11 @@ title: diserto.com
 languages:
     es:
         languageName: Español
-        title: diserto.com
+        title: Diserto 
         weight: 1
     en:
         languageName: English
-        title: diserto.com
+        title: Diserto
         weight: 2
 
 
@@ -36,7 +36,8 @@ permalinks:
 params:
     mainSections:
         - post
-        - prueba
+        - sobre-mi
+  
     featuredImageField: image
     rssFullContent: true
     favicon:
@@ -51,7 +52,7 @@ params:
 
     sidebar:
         emoji: 🌊
-        subtitle: Blog personal acerca de agua, economía y CNC.
+        subtitle: Agua, economía e ingeniería.
         avatar:
             enabled: true
             local: true
@@ -63,7 +64,7 @@ params:
         readingTime: true
         license:
             enabled: true
-            default: Licensed under CC BY-NC-SA 4.0
+            default: El texto está disponible bajo la licencia CC BY-NC-SA 4.0
 
     comments:
         enabled: true
@@ -197,6 +198,13 @@ menu:
           params:
             icon: home
             newTab: false
+        - identifier: Sobre mi
+          name: Sobre mi
+          url: /sobre-mi/sobre-mi
+          weight: -100
+          params:
+            icon: user
+            newTab: false
     social:
         - identifier: github
           name: GitHub
@@ -210,17 +218,17 @@ menu:
           params:
               icon: brand-twitter
 
-        - identifier: facebook
-          name: facebook
-          url: https://facebook.com/WolfResendiz
-          params:
-              icon: brand-facebook
+        #- identifier: facebook
+          #name: facebook
+          #url: https://facebook.com/WolfResendiz
+          #params:
+              #icon: brand-facebook
         
-        - identifier: instagram
-          name: instagram
-          url: https://instagram.com/WolfResendiz
-          params:
-              icon: brand-instagram
+        #- identifier: instagram
+          #name: instagram
+          #url: https://instagram.com/WolfResendiz
+          #params:
+              #icon: brand-instagram
 
 related:
     includeNewer: true
@@ -237,7 +245,7 @@ markup:
     goldmark:
         renderer:
             ## Set to true if you have HTML content inside Markdown
-            unsafe: false
+            unsafe: true
     tableOfContents:
         endLevel: 4
         ordered: true
