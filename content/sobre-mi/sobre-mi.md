@@ -37,4 +37,4 @@ Actualmente estoy intentando dar un salto profesional hacia la **economía del m
 
 #### Contacto
 
-> No sé por qué tendriás que contactarme; pero si buscas una excusa solo preguntame por qué estaba escribiendo esto a las 2 de la mañana a mi correo. wolf.resendiz<<at>>outlook.com 
+> Preguntame por qué estaba escribiendo esto a las 2 de la mañana. A mi correo. wolf.resendiz<<at>>outlook.com 
